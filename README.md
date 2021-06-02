@@ -1,6 +1,6 @@
-<h1 align="center">API de Cadastro de Colaborador</h1>
+<h1 align="center">API de Cadastro de APP IONIC</h1>
 
-## Essa api foi desenvolvida para um teste.
+## Essa api foi desenvolvida para atividade da P2 desenvolvimento mobile.
 
 <h2 align="center">Status do Projeto</h2>
 <h3 align="center">
